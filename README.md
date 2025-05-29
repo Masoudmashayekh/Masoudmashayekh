@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    
 </head>
 <body>
     <h1 align="left">Hi 👋, I'm Masoud</h1>
@@ -23,11 +23,11 @@
 <br>
 <div >
     <h2>📊 GitHub Stats</h2>
-    <p style: width:200px higth:200px><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoudmashayekh&show_icons=true&locale=en&layout=compact" alt="masoudmashayekh" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoudmashayekh&show_icons=true&locale=en&layout=compact" alt="masoudmashayekh" /></p>
     
-    <p style: width:200px higth:200px>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoudmashayekh&show_icons=true&locale=en" alt="masoudmashayekh" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoudmashayekh&show_icons=true&locale=en" alt="masoudmashayekh" /></p>
     
-    <p style: width:200px higth:200px><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoudmashayekh&" alt="masoudmashayekh" /></p>  
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoudmashayekh&" alt="masoudmashayekh" /></p>  
 </div>
 
 
