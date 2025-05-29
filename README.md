@@ -26,7 +26,7 @@
 
   
 ## 😂 Random Dev Meme
-  [![fiverr](https://www.fiverr.com/masoud_92/create-a-custom-python-automation-script-for-web-scraping-data-entry-api-tasks)
+  [![fiverr](https://www.fiverr.com/masoud_92/create-a-custom-python-automation-script-for-web-scraping-data-entry-api-tasks)]
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
