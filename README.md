@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=masoudmashayekh&label=Profile%20views&color=0e75b6&style=flat" alt="masoudmashayekh" /> </p>
 # 💫 About Me:
 🔍 I'm currently looking for a job or internship in Python/Django or frontend development.<br><br>🤝 I'm looking to collaborate on open-source projects or small freelance gigs.<br><br>🧠 I'm currently learning Django Rest Framework and JavaScript basics.<br><br>💬 Ask me about beginner-friendly Django setups, HTML/CSS layout fixes, or simple backend logic.<br><br>🙋‍♂️ I'm looking for help with improving my real-world project experience.<br><br>🎯 Fun fact: I built my first Django app before fully understanding how URLs work — and that’s how I learned best!
 
