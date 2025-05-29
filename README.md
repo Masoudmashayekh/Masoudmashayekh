@@ -13,9 +13,6 @@
 
 🎯 Fun fact: Built my first Django app before I fully understood URLs!
 
-
-
-<br>
 <hr>
 <br>
 
