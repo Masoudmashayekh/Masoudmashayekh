@@ -2,10 +2,15 @@
 
 ## 💫 Masoud Mashayekh
 🔍 Looking for a job or internship in Python/Django or frontend development.
+
 🤝 Open to collaborating on open-source or freelance projects.
+
 🧠 Learning Django Rest Framework and JavaScript.
+
 💬 Ask me about Django setups, HTML/CSS, or backend logic.
+
 🙋‍♂️ Want to gain more real-world experience.
+
 🎯 Fun fact: Built my first Django app before I fully understood URLs!
 
 
