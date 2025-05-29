@@ -51,10 +51,12 @@
 <hr>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<div style="text-align: center;">
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 [![](https://visitcount.itsvg.in/api?id=masoudmashayekh&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+</div>
 
  <hr>
  
