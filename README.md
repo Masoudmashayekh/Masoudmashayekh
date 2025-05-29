@@ -14,12 +14,12 @@
 🎯 Fun fact: Built my first Django app before I fully understood URLs!
 
 <hr>
-<br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masoud-mashayekh-472b57189/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masoudmashayekh00@gmail.com) 
 [![email](https://img.shields.io/badge/Freelance%20Job-green)](https://www.fiverr.com/masoud_92/create-a-custom-python-automation-script-for-web-scraping-data-entry-api-tasks) 
+<hr>
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -37,15 +37,18 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+<hr>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=masoudmashayekh&theme=default_repocard&hide_border=true)<br/>
 
+<hr>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=masoudmashayekh&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4)
+<hr>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
@@ -53,7 +56,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=masoudmashayekh&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 
-  
+ <hr>
+ 
 ## 😂 Random Me
   Not Found
   
