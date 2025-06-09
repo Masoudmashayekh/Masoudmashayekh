@@ -20,7 +20,9 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masoudmashayekh00@gmail.com) 
 [![email](https://img.shields.io/badge/Freelance%20Job-green)](https://www.fiverr.com/masoud_92/create-a-custom-python-automation-script-for-web-scraping-data-entry-api-tasks)
 [![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=6fda44)](https://www.upwork.com/freelancers/~01c9aaf629073a3185?mp_source=share)
-[![Freelancer](https://img.shields.io/badge/Freelancer-000000?style=for-the-badge&logo=freelancer&logoColor=29b2fe)](https://www.freelancer.com/u/MasoudMkh92?frm=MasoudMkh92&sb=t)
+[![Freelancer](https://img.shields.io/badge/Freelancer-wi?style=for-the-badge&logo=freelancer&logoColor=29b2fe)](https://www.freelancer.com/u/MasoudMkh92?frm=MasoudMkh92&sb=t)
+[![Fiverr](https://img.shields.io/badge/Fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=1DBF73)](https://www.fiverr.com/s/5rQzme3)
+
 
 
 
