@@ -18,7 +18,9 @@
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masoud-mashayekh-472b57189/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masoudmashayekh00@gmail.com) 
-[![email](https://img.shields.io/badge/Freelance%20Job-green)](https://www.fiverr.com/masoud_92/create-a-custom-python-automation-script-for-web-scraping-data-entry-api-tasks) 
+[![email](https://img.shields.io/badge/Freelance%20Job-green)](https://www.fiverr.com/masoud_92/create-a-custom-python-automation-script-for-web-scraping-data-entry-api-tasks)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
+
 <hr>
 
 ### 💻 Tech Stack:
