@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=masoudmashayekh&label=Profile%20views&color=0e75b6&style=flat" alt="masoudmashayekh" /> </p>
 
-## 💫  Masoud Mashayekh
+## 💫 Masoud Mashayekh
 🔍 Looking for a job or internship in Python/Django or frontend development.
 
 🤝 Open to collaborating on open-source or freelance projects.
