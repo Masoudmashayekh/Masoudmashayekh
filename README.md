@@ -51,6 +51,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=masoudmashayekh&theme=default_repocard&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=masoudmashayekh&theme=default_repocard&hide_border=true&v=1)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&theme=default_repocard&hide_border=true&layout=compact&v=1)
+
+![](https://nirzak-streak-stats.vercel.app/?user=masoudmashayekh&theme=default&hide_border=true&v=1)
 
 <br/>
 
