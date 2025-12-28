@@ -52,13 +52,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoudmashayekh&show_icons=true&locale=en&layout=compact" alt="masoudmashayekh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoudmashayekh&show_icons=true&locale=en" alt="masoudmashayekh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoudmashayekh&" alt="masoudmashayekh" /></p>
-
-
 
 <hr>
 
