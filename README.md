@@ -1,7 +1,4 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=masoudmashayekh&label=Profile%20views&color=0e75b6&style=flat" alt="masoudmashayekh" /> </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Masoud;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
 <hr>
 
 ## 💫Masoud Mashayekh
@@ -44,11 +41,9 @@
 <hr>
 
 ### 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=masoudmashayekh&hide_border=true&exclude_days=Sat)
+![GitHub Streak](https://streak-stats.demolab.com?user=masoudmashayekh&hide_border=true)
 ![Top Languages](https://ghstats.dev/api/langs?username=masoudmashayekh&theme=light&hide_border=true&border_radius=50)
-![GitHub Stats Card](https://ghstats.dev/api/card?username=masoudmashayekh&theme=light&hide_border=true&border_radius=50)
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=masoudmashayekh&theme=light&days=90&width=320&height=80)
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=masoudmashayekh&theme=light&hide_title=true&border_radius=21&hide=commits%2Cprs%2Cissues%2Ccontributions)
 
 <br/>
 <hr>
