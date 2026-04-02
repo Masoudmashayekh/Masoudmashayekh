@@ -51,6 +51,8 @@
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=masoudmashayekh&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=masoudmashayekh&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
 ### ✍️ Random Dev Quote
