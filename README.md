@@ -45,6 +45,7 @@
 
 ### 📊 GitHub Stats:
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=masoudmashayekh&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sat)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=masoudmashayekh&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sat" alt="GitHub Streak" /></a>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)
 <br/>
