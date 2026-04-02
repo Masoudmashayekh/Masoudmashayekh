@@ -45,8 +45,11 @@
 
 ### 📊 GitHub Stats:
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=masoudmashayekh&theme=light&hide_border=true&border_radius=50)
+<br/>
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=masoudmashayekh&theme=light&days=90&width=320&height=80)
+<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=masoudmashayekh&hide_border=true&exclude_days=Sat)]
+<br/>
 ![Top Languages](https://ghstats.dev/api/langs?username=masoudmashayekh&theme=light&hide_border=true&border_radius=50)
 
 <br/>
