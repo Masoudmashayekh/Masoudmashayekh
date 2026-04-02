@@ -45,8 +45,7 @@
 
 ### 📊 GitHub Stats:
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=masoudmashayekh&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sat)](https://git.io/streak-stats)
-
-[![](https://nirzak-streak-stats.vercel.app?user=masoudmashayekh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sat)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=masoudmashayekh&hide_border=true&exclude_days=Sat)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)
