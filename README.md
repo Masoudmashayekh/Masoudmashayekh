@@ -46,10 +46,8 @@
 ### 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=masoudmashayekh&hide_border=true&exclude_days=Sat)]
 ![Top Languages](https://ghstats.dev/api/langs?username=masoudmashayekh&theme=light&hide_border=true&border_radius=50)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=masoudmashayekh&theme=light&hide_border=true&border_radius=50)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)
 <br/>
 <hr>
 
