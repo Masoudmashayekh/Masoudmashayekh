@@ -48,22 +48,25 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)
 <br/>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Masoud;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masoudmashayekh&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masoudmashayekh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Masoud's Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=masoudmashayekh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=masoudmashayekh&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=masoudmashayekh&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 <hr>
 
 ### 🏆 GitHub Trophies
