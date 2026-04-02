@@ -1,9 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=masoudmashayekh&label=Profile%20views&color=0e75b6&style=flat" alt="masoudmashayekh" /> </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Masoud;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
-
 <hr>
 
 ## 💫Masoud Mashayekh
