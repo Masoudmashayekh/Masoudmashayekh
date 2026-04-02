@@ -44,7 +44,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=masoudmashayekh&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)
 <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masoudmashayekh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Masoud's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=masoudmashayekh&theme=radical&hide_border=true" />
+</p>
 <hr>
 
 ### 🏆 GitHub Trophies
