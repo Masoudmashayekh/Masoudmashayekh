@@ -1,5 +1,24 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=masoudmashayekh&label=Profile%20views&color=0e75b6&style=flat" alt="masoudmashayekh" /> </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Masoud;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=masoudmashayekh&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masoudmashayekh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Masoud's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoudmashayekh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=masoudmashayekh&theme=tokyonight&hide_border=true" />
+</p>
+
+<hr>
+
 ## 💫Masoud Mashayekh
 🔍 Looking for a Python developer job or internship.
 
