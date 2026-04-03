@@ -48,7 +48,6 @@
 <br/>
 <hr>
 
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=masoudmashayekh&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4)
 <hr>
